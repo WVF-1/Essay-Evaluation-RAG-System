@@ -138,6 +138,8 @@ Predicted Score: 3.4
 <img width="551" height="341" alt="First Iteration Demo" src="https://github.com/user-attachments/assets/47183a96-4f21-4d3d-8cc6-dbf4a51e5e3f" />
 ---
 
+---
+
 ## 🧪 Technologies Used
 
 * Python
